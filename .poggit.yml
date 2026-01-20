@@ -3,8 +3,8 @@ build-by-default: true
 branches:
 - main
 projects:
-  AsyncTaskCB:
-    path: asynctaskcb
+  AsyncTaskCallback:
+    path: ""
     model: virion
     type: library
 ...
