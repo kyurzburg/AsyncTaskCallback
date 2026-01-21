@@ -5,6 +5,5 @@ branches:
 projects:
   AsyncTaskCallback:
     path: ""
-    model: virion
     type: library
 ...
